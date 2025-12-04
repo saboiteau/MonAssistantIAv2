@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Décembre 2025
 
+- **[2025-12-04]** [L'Agent "Challenger" pour Muscler Vos Idées](fiches/2025-12/wenvision-agent-challenger-muscler-idees-2025-12.md) - Sparring-partner IA, avocat du diable, test robustesse idées, personas critiques, anticipation objections - WEnvision
 - **[2025-12-03]** [L'Agent "Coach Rétro" pour des Rétrospectives Qui Vont au Fond des Choses](fiches/2025-12/wenvision-coach-retro-retrospectives-2025-12.md) - Agent bi-modal (Game Master + Analyste Systèmes), formats créatifs, analyse schémas récurrents, causes profondes - WEnvision
 
 ### Novembre 2025
@@ -203,6 +204,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [CEA ExpressIF 3](fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01.md) - CEA
 
 ### Transformation & Adoption
+- [L'Agent "Challenger" pour Muscler Vos Idées](fiches/2025-12/wenvision-agent-challenger-muscler-idees-2025-12.md) - WEnvision
 - [L'Agent "Coach Rétro" pour des Rétrospectives Qui Vont au Fond des Choses](fiches/2025-12/wenvision-coach-retro-retrospectives-2025-12.md) - WEnvision
 - [Innover à l'ère agentique : lâcher le comment](fiches/2025-11/wenvision-innover-agentique-lacher-comment-2025-11.md) - WEnvision
 - [Leadership augmenté à l'ère de l'IA (Slides)](fiches/2025-11/kieffer-leadership-augmente-ia-2025-11-20.md) - Brice Kieffer (Zenika)
@@ -311,7 +313,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 119
+- **Total d'articles** : 120
 - **Période couverte** : Juin 2023 - Décembre 2025
-- **Principaux auteurs** : Ethan Mollick (6), Simon Willison (2), Jesse Vincent (2), Anthropic (5), Kent Beck (2), Google (5), Kieran Klaassen (2), Cobus Greyling (2), WEnvision (3), Raffaela Rein (1), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), et al.
+- **Principaux auteurs** : Ethan Mollick (6), Simon Willison (2), Jesse Vincent (2), Anthropic (5), Kent Beck (2), Google (5), Kieran Klaassen (2), Cobus Greyling (2), WEnvision (4), Raffaela Rein (1), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Substack (Jurgen Appelo, The AI Leadership Edge)

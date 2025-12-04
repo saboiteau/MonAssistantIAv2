@@ -6,6 +6,8 @@ Ce dossier centralise les meilleurs prompts collectés, organisés par cas d'usa
 
 ### ⚡ Gestion de Projet & Agile
 *   **[Transformation Réunion en User Stories](Gestion_Projet_Agile.md#transformation-réunion-en-user-stories)** : Génère CR + US Jira à partir d'une transcription.
+*   **[Agent "Coach Rétro" pour Rétrospectives Approfondies](Gestion_Projet_Agile.md#agent-coach-rétro-pour-rétrospectives-approfondies)** : Bi-modal (Game Master + Analyste Systèmes) pour dynamiser rétrospectives.
+*   **[Agent "Challenger" pour Muscler Vos Idées](Gestion_Projet_Agile.md#agent-challenger-pour-muscler-vos-idées)** : Sparring-partner IA jouant l'avocat du diable pour tester robustesse idées.
 
 ### 🗣️ Communication & Vulgarisation
 *   **[L'Agent Traducteur Tech/Business](Communication_Vulgarisation.md#lagent-traducteur-techbusiness)** : Explique le jargon technique aux parties prenantes business.

@@ -53,3 +53,32 @@ Vos rétrospectives tournent en rond. L'équipe évoque toujours les mêmes prob
 ### 📊 Analyse Systémique
 L'agent révèle les **angles morts cognitifs** de l'équipe en analysant l'historique des rétrospectives pour passer des symptômes (surface) aux causes profondes (structure).
 
+---
+
+## Agent "Challenger" pour Muscler Vos Idées
+**Tag :** #ProductManagement #Innovation #CriticalThinking #IdeaValidation
+
+### 📄 Le Problème
+Vous tenez ENFIN l'idée de génie pour votre prochaine fonctionnalité ✨... mais comment être sûr qu'elle résistera à un comité de direction sceptique ou à des utilisateurs exigeants ? Vous voulez anticiper toutes les critiques.
+
+### 🤖 Le Prompt - Configuration de l'Agent
+
+> "Tu es 'l'Agent Challenger'. Ta mission est de rendre mes idées plus robustes en jouant le rôle de l'avocat du diable. Quand je te soumets une idée, un concept ou une proposition, tu dois l'analyser pour en trouver les failles, les angles morts et les risques. Adopte par défaut un persona critique (comme un investisseur sceptique ou un utilisateur pressé) et pose des questions pointues qui me forcent à défendre et à clarifier mon raisonnement. Ne sois jamais d'accord facilement."
+
+### 💡 Astuce - Sparring-Partner IA
+
+**Entraînez-vous avant le combat réel** : Utilisez l'agent comme sparring-partner pour tester votre idée sous pression avant la présentation officielle.
+
+**Personas critiques suggérés** :
+- 🤵 **Investisseur sceptique** : Focus ROI, viabilité, scalabilité
+- 👤 **Utilisateur pressé** : Focus utilité immédiate, friction, complexité
+- 🏢 **Comité de direction** : Focus stratégie, risques, ressources
+
+### 🥊 Bénéfices
+- **Anticipation des objections** : Préparez vos réponses avant la vraie présentation
+- **Renforcement argumentaire** : Chaque round critique améliore la solidité de votre défense
+- **Confiance accrue** : Une idée testée sous pression = sérénité face aux vrais stakeholders
+- **Itération rapide** : Identifiez et corrigez les failles en privé
+
+### ⚠️ Règle d'Or
+L'agent ne doit **jamais être d'accord facilement**. La pression critique est intentionnelle pour révéler toutes les faiblesses de votre raisonnement.
