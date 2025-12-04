@@ -5,18 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration du provider LLM
-PROVIDER = os.getenv("LLM_PROVIDER", "openai").lower()
-
-# Initialisation des clients selon le provider
-if PROVIDER == "openai":
-    import openai
-    openai.api_key = os.getenv("LLM_API_KEY")
-elif PROVIDER == "anthropic":
-    import anthropic
-    client = anthropic.Anthropic(api_key=os.getenv("LLM_API_KEY"))
-elif PROVIDER == "gemini":
-    import google.generativeai as genai
-    genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+PROVIDER = os.getenv("LLM_PROVIDER", "gemini").lower()
 
 def summarize(text: str, metadata: dict) -> str:
     """
@@ -55,11 +44,11 @@ def summarize(text: str, metadata: dict) -> str:
     Texte à analyser :
     {text[:15000]} 
     """
-    # Note: on tronque à 15000 caractères pour rester dans les limites raisonnables des context windows standards, 
-    # bien que Gemini puisse en prendre beaucoup plus.
 
     try:
         if PROVIDER == "openai":
+            import openai
+            openai.api_key = os.getenv("LLM_API_KEY")
             response = openai.ChatCompletion.create(
                 model="gpt-4o-mini",
                 messages=[{"role": "user", "content": prompt}],
@@ -68,6 +57,8 @@ def summarize(text: str, metadata: dict) -> str:
             return response.choices[0].message.content
 
         elif PROVIDER == "anthropic":
+            import anthropic
+            client = anthropic.Anthropic(api_key=os.getenv("LLM_API_KEY"))
             response = client.messages.create(
                 model="claude-3-sonnet-20240229",
                 max_tokens=2000,
@@ -77,7 +68,8 @@ def summarize(text: str, metadata: dict) -> str:
             return response.content[0].text
 
         elif PROVIDER == "gemini":
-            # Utilisation de Gemini 1.5 Flash (rapide et efficace pour du résumé)
+            import google.generativeai as genai
+            genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
             model = genai.GenerativeModel("gemini-1.5-flash")
             response = model.generate_content(prompt)
             return response.text

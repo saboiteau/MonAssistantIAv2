@@ -46,6 +46,15 @@ def watchdog_mode():
     print("Appuyez sur Ctrl+C pour arrêter.")
     
     while True:
+        # Git pull pour récupérer les modifications depuis GitHub
+        try:
+            import subprocess
+            result = subprocess.run(['git', 'pull'], capture_output=True, text=True, timeout=10)
+            if 'Already up to date' not in result.stdout:
+                print(f"🔄 Git pull : {result.stdout.strip()}")
+        except Exception as e:
+            print(f"⚠️ Git pull échoué (normal si pas de connexion) : {e}")
+        
         if INPUT_FILE.exists():
             # Lire les URLs
             with open(INPUT_FILE, 'r', encoding='utf-8') as f:
@@ -76,6 +85,16 @@ def watchdog_mode():
                 # Ici on choisit de vider les URLs traitées pour éviter de les refaire
                 with open(INPUT_FILE, 'w', encoding='utf-8') as f:
                     f.writelines(remaining_lines)
+                
+                # Git commit et push pour synchroniser
+                try:
+                    import subprocess
+                    subprocess.run(['git', 'add', '.'], timeout=5)
+                    subprocess.run(['git', 'commit', '-m', f'Auto: Traité {len(urls_to_process)} URLs'], timeout=5)
+                    subprocess.run(['git', 'push'], timeout=10)
+                    print("📤 Modifications synchronisées sur GitHub")
+                except Exception as e:
+                    print(f"⚠️ Git sync échoué : {e}")
                     
         time.sleep(5) # Vérifier toutes les 5 secondes
 
