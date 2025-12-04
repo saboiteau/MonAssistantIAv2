@@ -1,48 +1,100 @@
-# veille_auto.py
-"""Automated Veille Script – Spec‑Driven Development
+"""Automated Veille Script – Watchdog Mode
 
 Usage:
-    python veille_auto.py <URL>
+    python veille_auto.py [--watch]
 
-Le script récupère le contenu d'un article, le résume via le LLM (Gemini 3 ou autre), crée la fiche Markdown
-et met à jour le fichier d'index.
+Mode Watchdog : Surveille le fichier INPUT_URLS.txt et traite les URLs ajoutées.
+Mode One-shot : python veille_auto.py <URL>
 """
 
 import argparse
 import sys
+import time
+import shutil
 from pathlib import Path
+from datetime import datetime
 
-# Import des modules utils (ils seront créés dans le même projet)
+# Import des modules utils
 from utils.scraper import fetch
 from utils.summarizer import summarize
 from utils.index_updater import insert_entry
 from utils.fiche_writer import write_fiche
 
+INPUT_FILE = Path("INPUT_URLS.txt")
+PROCESSED_FILE = Path("PROCESSED_URLS.txt")
+
+def process_url(url):
+    """Traite une URL unique : Scrape -> Summarize -> Write -> Index"""
+    print(f"🔄 Traitement de : {url}")
+    try:
+        title, author, date, raw_text = fetch(url)
+        metadata = {"title": title, "author": author, "date": date, "source": url}
+        
+        markdown_fiche = summarize(raw_text, metadata)
+        fiche_path = write_fiche(markdown_fiche, date)
+        insert_entry(fiche_path, metadata)
+        
+        print(f"✅ Succès : {fiche_path.name}")
+        return True
+    except Exception as e:
+        print(f"❌ Erreur sur {url} : {e}", file=sys.stderr)
+        return False
+
+def watchdog_mode():
+    """Surveille le fichier INPUT_URLS.txt en boucle"""
+    print(f"👀 Mode Watchdog activé. Surveillance de {INPUT_FILE.absolute()}...")
+    print("Appuyez sur Ctrl+C pour arrêter.")
+    
+    while True:
+        if INPUT_FILE.exists():
+            # Lire les URLs
+            with open(INPUT_FILE, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+            
+            urls_to_process = [line.strip() for line in lines if line.strip() and not line.strip().startswith('#')]
+            
+            if urls_to_process:
+                print(f"detecté {len(urls_to_process)} URLs à traiter.")
+                
+                remaining_lines = []
+                
+                for line in lines:
+                    url = line.strip()
+                    if not url or url.startswith('#'):
+                        remaining_lines.append(line)
+                        continue
+                        
+                    success = process_url(url)
+                    
+                    # Log dans PROCESSED_URLS
+                    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                    status = "OK" if success else "ERROR"
+                    with open(PROCESSED_FILE, 'a', encoding='utf-8') as hist:
+                        hist.write(f"[{timestamp}] [{status}] {url}\n")
+                
+                # Vider le fichier d'entrée (ou ne garder que les commentaires)
+                # Ici on choisit de vider les URLs traitées pour éviter de les refaire
+                with open(INPUT_FILE, 'w', encoding='utf-8') as f:
+                    f.writelines(remaining_lines)
+                    
+        time.sleep(5) # Vérifier toutes les 5 secondes
 
 def main():
-    parser = argparse.ArgumentParser(description="Automatiser la création d'une fiche de veille à partir d'une URL.")
-    parser.add_argument("url", help="URL de l'article à analyser")
+    parser = argparse.ArgumentParser(description="Automatiser la veille.")
+    parser.add_argument("url", nargs="?", help="URL unique à traiter")
+    parser.add_argument("--watch", action="store_true", help="Activer le mode surveillance de fichier")
+    
     args = parser.parse_args()
 
-    try:
-        # 1️⃣ Récupérer le contenu de la page
-        title, author, date, raw_text = fetch(args.url)
-        metadata = {"title": title, "author": author, "date": date, "source": args.url}
-
-        # 2️⃣ Générer la fiche via le LLM
-        markdown_fiche = summarize(raw_text, metadata)
-
-        # 3️⃣ Écrire la fiche dans le bon répertoire
-        fiche_path = write_fiche(markdown_fiche, date)
-
-        # 4️⃣ Mettre à jour l'index
-        insert_entry(fiche_path, metadata)
-
-        print(f"✅ Fiche créée : {fiche_path}")
-    except Exception as e:
-        print(f"❌ Erreur : {e}", file=sys.stderr)
-        sys.exit(1)
-
+    if args.watch:
+        try:
+            watchdog_mode()
+        except KeyboardInterrupt:
+            print("\n🛑 Arrêt du Watchdog.")
+    elif args.url:
+        process_url(args.url)
+    else:
+        print("Usage: python veille_auto.py <URL> OU python veille_auto.py --watch")
 
 if __name__ == "__main__":
     main()
