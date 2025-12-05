@@ -21,4 +21,5 @@ URLs inaccessibles:
 - https://openai.com/index/ai-progress-and-recommendations/ (403 Forbidden)
 - https://www.leoniemonigatti.com/blog/from-rag-to-agent-memory.html (503 Service Unavailable)
 -->
+https://open.substack.com/pub/themaverickmapmaker/p/a-map-for-agentic-transformation?r=2yfuvo&utm_medium=ios
 
