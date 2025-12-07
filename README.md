@@ -19,10 +19,15 @@ Collection de prompts réutilisables organisés par cas d'usage.
 - Formation & Acculturation
 - Stratégie & Géopolitique
 
+### 🧠 Connaissances
+Base de désavoirs pérenne (Second Brain) pour capitaliser sur les concepts clés, indépendamment de leur date de découverte.
+- **[psychologie-et-management.md](Connaissances/psychologie-et-management.md)** : Modèles de personnalité et dynamique d'équipe
+
 ### ✍️ LinkedIn et Articles
 Mes articles publiés et brouillons sur l'IA, le management et la transformation.
-- **[v1.2/publies/](LinkedIn et articles/v1.2/publies/)** : Articles publiés
-- **[v1.2/brouillons/](LinkedIn et articles/v1.2/brouillons/)** : Travaux en cours
+- **[publies/](LinkedIn et articles/publies/)** : Articles publiés
+- **[brouillons/](LinkedIn et articles/brouillons/)** : Travaux en cours
+- **[specialites/](LinkedIn et articles/specialites/)** : Fiches d'expertise thématiques (ex: ADKAR, SAFe...)
 
 ### 🔧 Autres Dossiers
 - **Ma Routine matinale** : Workflows quotidiens

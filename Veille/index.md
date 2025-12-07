@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Décembre 2025
 
+- **[2025-12-07]** [L’excellence décisionnelle psychologique : MBTI ou Big Five ?](fiches/2025-12/excellence-decisionnelle-mbti-2025-12.md) - Comparaison science vs utilité, management, intelligence collective - Olivier Zara
 - **[2025-12]** [Faire du dialogue social un levier de vitesse pour votre roadmap IA](fiches/2025-12/wenvision-dialogue-social-roadmap-ia-2025-12.md) - Gouvernance, inclusion, transparence - WEnvision
 - **[2025-12]** [A Map for Agentic Transformation](fiches/2025-12/appelo-map-agentic-transformation-2025-12.md) - Carte dynamique vs maturité linéaire, tensions comme énergie, décentralisé vs distribué - Jurgen Appelo
 - **[2025-12-04]** [Décideurs, êtes-vous bons ou chanceux ?](nouvelle-fiche-2025-12-v4.md) - Inconnu
@@ -295,6 +296,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Touilleur Express: Ni Manager Ni Contributeur](fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23.md) - Career paths
 
 ### Stratégie & Frameworks
+- **[2025-12]** [L’excellence décisionnelle psychologique : MBTI ou Big Five ?](fiches/2025-12/excellence-decisionnelle-mbti-2025-12.md) - Olivier Zara
 - [Leadership augmenté à l’ère de l’IA (Slides)](fiches/2025-11/kieffer-leadership-augmente-ia-2025-11-20.md) - Brice Kieffer (Zenika)
 - [Human Robot Agent](fiches/2025-11/appelo-human-robot-agent-2025-03.md) - Jurgen Appelo
 - [The Four Tensions of Sociotechnical Systems](fiches/2025-11/appelo-four-tensions-sociotechnical-systems-2025-11.md) - Jurgen Appelo
@@ -339,7 +341,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 131
+- **Total d'articles** : 132
 - **Période couverte** : Juin 2023 - Décembre 2025
-- **Principaux auteurs** : Ethan Mollick (6), Cigref (5), Simon Willison (2), Jesse Vincent (2), Anthropic (5), Kent Beck (2), Google (5), Kieran Klaassen (2), Cobus Greyling (2), WEnvision (5), Raffaela Rein (1), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), et al.
+- **Principaux auteurs** : Ethan Mollick (6), Cigref (5), Simon Willison (2), Jesse Vincent (2), Anthropic (5), Kent Beck (2), Google (5), Kieran Klaassen (2), Cobus Greyling (2), WEnvision (5), Olivier Zara (1), Raffaela Rein (1), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Cigref, Substack (Jurgen Appelo, The AI Leadership Edge)
