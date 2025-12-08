@@ -15,10 +15,104 @@ Kit_Duplication_Assistant/
 *.zip
 
 # Exclude large files (>100MB)
-Veille/sources/Human Robot Agent (Jurgen Appelo) - public version.pdf
+Veille/origines
 *.iso
 *.mp4
 *.mov
 
 # Exclude temporary files
 ~$*
+
+# ========================================
+# DONNÉES PERSONNELLES ET PRIVÉES
+# ========================================
+
+# Fichiers de travail et brouillons
+*_PRIVE*
+*_PRIVATE*
+*_PERSO*
+*_DRAFT*
+*_BROUILLON*
+*_WIP*
+
+# Fichiers de statut et logs
+status_*.txt
+remote_*.txt
+final_status.txt
+*.log
+
+# Configuration avec clés API
+.env
+.env.local
+VeilleAuto/.env
+*.key
+*.secret
+
+# ========================================
+# CONTENUS PERSONNELS
+# ========================================
+
+# Articles et LinkedIn (brouillons et travaux en cours)
+LinkedIn et articles/brouillons/
+LinkedIn et articles/*_DRAFT*
+LinkedIn et articles/*_WIP*
+
+# Connaissances personnelles (données sensibles)
+Connaissances/*.md
+!Connaissances/README.md
+
+# Veille personnelle (URLs et contenus privés)
+urls-to-process.txt
+VeilleAuto/INPUT_URLS.txt
+VeilleAuto/PROCESSED_URLS.txt
+Veille/fiches/*_PRIVE*
+
+# Ma Routine matinale (données personnelles)
+Ma Routine matinale/*_PRIVE*
+Ma Routine matinale/notes_perso*
+
+# ========================================
+# FICHIERS DE SYNCHRONISATION
+# ========================================
+
+# Fichiers de statut Git
+status_mon_assistant.txt
+status_kit.txt
+remote_*.txt
+
+# Sauvegardes
+*.bak
+*.backup
+*_backup.*
+*_old.*
+
+# ========================================
+# DOSSIERS À EXCLURE
+# ========================================
+
+# Dossiers de travail temporaire
+Travail_En_Cours/
+Brouillons/
+Archives_Perso/
+
+# ========================================
+# EXCEPTIONS (À TOUJOURS INCLURE)
+# ========================================
+
+# README et documentation publique
+!README.md
+!*/README.md
+
+# Banque de prompts (anonymisée)
+!Banque_de_Prompts/*.md
+
+# Articles publiés (publics)
+!LinkedIn et articles/publies/*.md
+
+# Veille index (public)
+!Veille/index.md
+!Veille/README.md
+
+# Templates et guides (publics)
+!utils/*.md
+!.agent/workflows/*.md

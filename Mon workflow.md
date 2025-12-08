@@ -1,0 +1,3 @@
+Supprime le contenu de la démo, elle est trop compliquée et je ne fais pas toutes ces actions.
+En revanche, elle me donne  l'idée de montrer mes étapes : je lis un article -> je mets l'url dans Urls-to-process -> je me connecte à Antigravity pour enrichir ma Veille -> je fais un prompt simple "génère la ou les fiches à partir des nouvelles urls" -> j'enrichis ensuite mon profil si certaines spécialités m'inspirent  > je lui demande de pré-rédiger un article si une idée m'inspire > quand l'article me convieznt, je demande de génrer une image et de la sauvagrder au même nom et dans le même répertoire que l'article -> je lui demande de préparer le post linkedin -> j'itère toujours pour le post Linkedin
+

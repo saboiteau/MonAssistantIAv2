@@ -25,3 +25,14 @@ Il est fondamental de ne pas opposer ces outils sur le seul plan scientifique, m
 Le succès du MBTI en entreprise par rapport au Big Five s'explique souvent par sa **neutralité axiomatique**.
 *   Dans le Big Five, être "bas" en *Conscience* professionnelle ou "haut" en *Instabilité émotionnelle* est implicitement négatif.
 *   Dans le MBTI, préférer la *Perception* (P) au *Jugement* (J) ou le *Sentiment* (F) à la *Pensée* (T) n'est pas une lacune, mais une **préférence cognitive** qui a sa propre valeur et ses propres forces. Cela favorise la sécurité psychologique nécessaire au travail d'équipe.
+
+### L'Approche par les Forces : Gallup (CliftonStrengths)
+
+Une troisième catégorie majeure mérite d'être distinguée pour son approche radicalement différente du développement humain.
+
+*   **Philosophie** : Don Clifton (père de la psychologie basée sur les forces) part du postulat qu'il est infiniment plus efficace de cultiver ses talents naturels pour en faire des points forts (Strengths) que de s'épuiser à corriger ses faiblesses.
+*   **Nature** : Ce n'est ni un "type" (MBTI), ni un trait de caractère (Big Five), mais une **cartographie de talents** (34 thèmes).
+*   **Usage en Management** :
+    *   **Engagement** : Gallup lie directement l'utilisation des points forts au quotidien à l'engagement des collaborateurs (Q12).
+    *   **Complémentarité** : Contrairement au MBTI qui cherche l'harmonie par la compréhension des différences, Gallup cherche la **performance** par l'assemblage stratégique des talents complémentaires (ex: un *Activator* pour lancer le projet, un *Maximizer* pour le peaufiner).
+*   **Origine** : USA (Gallup Organisation). Très ancré dans la culture managériale anglo-saxonne.
