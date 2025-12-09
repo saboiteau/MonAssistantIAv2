@@ -15,3 +15,4 @@
 #https://substack.jurgenappelo.com?utm_source=navbar&utm_medium=web
 
 # === URLs A TRAITER ===
+https://www.wenvision.com/fr/articles/lquation-de-lagent-rsolue-au-tech-rocks-summit/
