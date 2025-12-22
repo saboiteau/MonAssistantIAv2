@@ -19,10 +19,4 @@
 
 
 # === URLs A TRAITER ===
-
-
-
-# Ajouté depuis la fiche Sécurité
-https://owasp.org/www-project-cheat-sheets/
-https://security.snyk.io/
-https://www.cisecurity.org/cis-benchmarks
+https://substack.jurgenappelo.com?utm_source=navbar&utm_medium=web
