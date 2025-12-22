@@ -44,20 +44,22 @@ https://www.wenvision.com/fr/articles/redessiner-votre-tom-pour-l-ia-agentique-d
 **Format** : Vision RH & Compétences
 **Date suggérée** : Jeudi 27/11
 
-La fiche de poste classique est obsolète. Voici pourquoi. 📄
+La fiche de poste classique évolue. Et vite. 📄
 
-Quand j'analyse l'évolution des compétences, une évidence s'impose.
-La quête du profil "T-Shaped" (une expertise unique, une culture large) est déjà dépassée.
+Quand j'observe l'évolution des compétences, je constate un changement profond.
+Le profil "T-Shaped" (une expertise unique, une culture large) ne suffit plus.
 
 Avec l'IA, nous entrons dans l'ère du collaborateur **M-Skilled** : capable de développer *plusieurs* profondeurs d'expertise (Tech + Marketing + Data) en s'appuyant sur des agents spécialisés.
 
-Conséquence ? L'unité de base de performance n'est plus l'individu, c'est la **Blended Team** (Équipe Mixte) :
+Conséquence ? L'unité de base de performance devient la **Blended Team** (Équipe Hybride) :
 1.  **Des Humains** : Gardiens du sens, de l'éthique et de l'empathie.
 2.  **Des Agents IA** : Spécialistes de l'exécution (Cody pour le code, Echo pour la critique).
 
-Le rôle du manager mute radicalement : il ne gère plus des "ressources humaines", il orchestre un **écosystème d'intelligences hybrides**.
+Le rôle du manager évolue : il ne gère plus seulement des "ressources humaines", il orchestre un **écosystème d'intelligences hybrides**.
 
-C'est le modèle **M3K** (Management 3ème Millénaire). Et ceux qui continuent de recruter sur des fiches de poste de 2020 prennent déjà du retard.
+C'est le modèle **M3K** (Management 3ème Millénaire). Une transformation qui nous concerne tous.
+
+Et vous, comment anticipez-vous cette évolution dans vos équipes ?
 
 Je détaille ces nouveaux profils ici 👇
 

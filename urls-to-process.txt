@@ -1,4 +1,4 @@
-# ðŸ“‹ URLs Ã  traiter pour la Veille
+# ?? URLs Ã  traiter pour la Veille
 # 
 # Instructions :
 # 1. Ajoutez vos URLs ici (une par ligne)
@@ -12,6 +12,17 @@
 
 # === URLs TRAITÃ‰ES (ne pas supprimer) ===
 # https://www.excellence-decisionnelle.com/2025/12/07/mbti-excellence-decisionnelle/
+# https://substack.jurgenappelo.com/p/the-agentic-organization
+# https://kolibricoaching.com/le-changement/resistance-au-changement-plus-on-insiste-plus-ca-resiste/
+# https://kolibricoaching.com/une/quand-lautre-est-ingerable-regard-systemique/
+# https://kolibricoaching.com/management-durable/techno-solutionnisme-regulation-humaine-et-petits-bras-muscles/
+
 
 # === URLs A TRAITER ===
-https://substack.jurgenappelo.com?utm_source=navbar&utm_medium=web
+
+
+
+# Ajouté depuis la fiche Sécurité
+https://owasp.org/www-project-cheat-sheets/
+https://security.snyk.io/
+https://www.cisecurity.org/cis-benchmarks

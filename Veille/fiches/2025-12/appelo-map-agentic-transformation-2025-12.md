@@ -1,25 +1,30 @@
-# Veille : A Map for Agentic Transformation
+---
+date: 2025-12-01
+url: https://open.substack.com/pub/themaverickmapmaker/p/a-map-for-agentic-transformation?r=2yfuvo&utm_medium=ios
+tags: [#veille, #Transformation, #Agentic, #Organization, #ChangeManagement, #JurgenAppelo]
+auteur: Jurgen Appelo
+---
 
-- **Source** : [https://open.substack.com/pub/themaverickmapmaker/p/a-map-for-agentic-transformation?r=2yfuvo&utm_medium=ios](https://open.substack.com/pub/themaverickmapmaker/p/a-map-for-agentic-transformation?r=2yfuvo&utm_medium=ios)
-- **Date** : 2025-12
-- **Auteur** : Jurgen Appelo
-- **Tags** : #Transformation #Agentic #Organization #ChangeManagement #JurgenAppelo
+# A Map for Agentic Transformation
 
-## 📝 Résumé
+## 💡 Concepts Clés
+- **Carte vs Roadmap** : Privilégier une carte de navigation dynamique adaptée à la complexité plutôt qu'une "roadmap" linéaire et rigide de maturité.
+- **Combat Multidimensionnel (Messy Wrestling Match)** : La transformation n'est pas une ligne droite, c'est une lutte avec les réalités opérationnelles.
+- **ADN Opérationnel** : Comprendre la structure actuelle (structure hybride, contradictions) avant d'appliquer un modèle.
+- **Tension comme Énergie** : Utiliser les frictions existantes comme moteur du changement.
+- **Décentralisé (Pouvoir) vs Distribué (Lieu)** : Distinction clé pour organiser les agents IA et humains.
 
-Jurgen Appelo, alias "The Maverick Mapmaker", propose une nouvelle carte dynamique pour guider les organisations vers une transformation "agentique". Cette approche se veut une alternative aux modèles de maturité linéaires traditionnels, reconnaissant la complexité inhérente au changement organisationnel.
+## 📝 Résumé Analytique
+Jurgen Appelo propose une approche réaliste et non-linéaire pour la transformation vers une "Organisation Agentique". Contrairement aux modèles de maturité classiques qui vendent une progression étape par étape ("Niveau 1 à 5"), il suggère d'utiliser une **carte** pour naviguer dans la complexité.
+L'idée centrale est de ne pas ignorer les "goulots d'étranglement humains" ou les structures existantes, mais de travailler *avec* (la métaphore du combat de lutte). Le diagnostic de la "logique organisationnelle" actuelle est le prérequis.
+Plutôt que de forcer le changement, on utilise les **tensions** comme énergie cinétique pour faire bouger le système vers plus d'autonomie (agentivité), en acceptant que le chemin soit "messy" (désordonné).
 
-Les points clés de cette carte sont :
-*   **Diagnostic de la logique organisationnelle** : Comprendre la structure actuelle et identifier les contradictions hybrides.
-*   **Tensions comme énergie** : Voir les tensions internes non comme des problèmes, mais comme des sources d'énergie pour la transformation.
-*   **Étapes réalistes** : Concevoir des pas concrets vers des capacités agentiques, en travaillant *avec* les contraintes existantes.
+## 🛠️ Actions / Outils
+- **Cartographie des Tensions** : Identifier où ça frotte pour en faire des leviers.
+- **Matrice Décentralisation/Distribution** : Clarifier qui décide (Central/Décentralisé) et où se fait le travail (Co-located/Distribué) pour placer les Agents IA.
+- **Posture "Navigateur"** : Pour les consultants, arrêter de vendre des plans linéaires et accompagner la navigation en temps réel.
 
-L'évolution vers une organisation agentique est décrite non comme une ligne droite, mais comme un "combat multidimensionnel" (messy wrestling match). La carte aide les leaders à naviguer en analysant leur ADN opérationnel et en planifiant un chemin qui respecte la complexité de leur réalité. Elle distingue également les concepts de "décentralisé" (pouvoir) et "distribué" (lieu).
-
-## 🧠 Analyse & Pense-bête
-
-Cet article est particulièrement pertinent pour notre veille sur l'IA agentique car il aborde le volet organisationnel et humain, souvent négligé au profit de la technique.
-
-*   **Alignement avec nos réflexions** : L'approche non-linéaire résonne avec nos questionnements sur l'obsolescence des règles de changement classiques (ex: règle des 2 ans).
-*   **Outil pratique** : La distinction entre décentralisation et distribution est cruciale pour structurer des équipes d'agents IA et d'humains.
-*   **Action** : À intégrer dans nos modèles mentaux pour accompagner les clients qui veulent déployer des agents à l'échelle. Ne pas vendre une "roadmap" linéaire, mais une "carte" de navigation.
+## 💭 Critique / Perspective (Optionnel)
+Résonance forte avec notre approche : "L'humain ne doit pas être le bottleneck" (cf. l'autre article d'Appelo).
+Cette carte légitime le fait que la transformation IA ne se passera pas comme prévu dans les slides PowerPoint du CoDir.
+*Action : Intégrer cette distinction Décentralisé/Distribué dans notre architecture d'agents.*

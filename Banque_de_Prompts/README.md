@@ -21,6 +21,11 @@ Ce dossier centralise les meilleurs prompts collectés, organisés par cas d'usa
 ### 🎯 Marketing & Recherche Utilisateur
 *   **[Personas "Hyper-Réalistes"](Marketing_Recherche_Utilisateur.md#personas-hyper-réalistes-données--web)** : Combine données internes et recherche web pour des personas complets.
 
+### 🎨 Branding & Gestion des Connaissances
+*   **[Agent "Head of Branding" pour Ne Plus Jamais Manquer d'Inspiration](Branding_Gestion_Connaissances.md#agent-head-of-branding-pour-ne-plus-jamais-manquer-dinspiration)** : Expert en naming pour générer des noms percutants et créatifs.
+*   **[Maîtrisez le Vocabulaire de l'IA : le "RAG"](Branding_Gestion_Connaissances.md#maîtrisez-le-vocabulaire-de-lia--le-rag)** : Explication pratique du RAG (Retrieval-Augmented Generation) et comment l'utiliser.
+*   **[Agent "Gardien du Savoir" pour Ne Plus Jamais Répondre "C'est dans la Doc"](Branding_Gestion_Connaissances.md#agent-gardien-du-savoir-pour-ne-plus-jamais-répondre-cest-dans-la-doc)** : Assistant IA expert de votre documentation pour autonomiser votre équipe.
+
 ### 🌍 Stratégie & Géopolitique
 *   **[Analyse Géopolitique d'une Technologie](Strategie_Geopolitique.md#analyse-géopolitique-dune-technologie)** : Framework 3 goulots (matériel, talents, modèles) pour évaluer dépendances.
 

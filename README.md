@@ -2,6 +2,22 @@
 
 Bienvenue dans mon écosystème d'assistant IA personnel ! Ce dépôt contient tous mes outils, templates, articles et veille pour travailler efficacement avec l'IA.
 
+## 🚀 Démarrage Rapide
+
+**Nouveau !** Pour activer toutes les fonctionnalités de l'assistant IA :
+
+👉 **[CONFIGURATION_ASSISTANT.md](CONFIGURATION_ASSISTANT.md)** - Configuration centralisée  
+📖 **[GUIDE_RAPIDE_COMMANDES.md](GUIDE_RAPIDE_COMMANDES.md)** - Aide-mémoire des commandes
+
+**Commande rapide** : *"Applique ma config standard"*
+
+Cette configuration active automatiquement :
+- ✅ **Règles "Ne pas mentir"** : Rigueur intellectuelle et vérification des sources
+- ✅ **Mes 13 Spécialités** : Expertise de référence (Product Operating Models, Agents IA, Context Engineering, etc.)
+- ✅ **Banque de Prompts** : 40+ prompts réutilisables
+- ✅ **Veille** : 110+ articles analysés pour références crédibles
+- ✅ **Agents IA Quotidiens** : Namer, Gardien du Savoir, RAG
+
 ## 📂 Structure du Dépôt
 
 ### 📚 Veille
@@ -18,6 +34,14 @@ Collection de prompts réutilisables organisés par cas d'usage.
 - Rédaction & Écriture
 - Formation & Acculturation
 - Stratégie & Géopolitique
+- **Branding & Gestion des Connaissances** ⭐ *Nouveau !*
+
+### 🤖 Agents IA Quotidiens
+Configurations d'agents IA prêts à l'emploi pour vos besoins quotidiens.
+- **[AGENTS_QUOTIDIENS.md](AGENTS_QUOTIDIENS.md)** : Référence rapide
+  - 🎨 **Agent Namer** : Expert en branding pour nommer vos projets
+  - 🧠 **RAG** : Comprendre et utiliser le Retrieval-Augmented Generation
+  - 📚 **Gardien du Savoir** : Expert de votre documentation
 
 ### 🧠 Connaissances
 Base de désavoirs pérenne (Second Brain) pour capitaliser sur les concepts clés, indépendamment de leur date de découverte.
@@ -57,4 +81,4 @@ Usage personnel. Si vous souhaitez réutiliser du contenu, merci de me contacter
 
 ---
 
-*Dernière mise à jour : 2025-12-02*
+*Dernière mise à jour : 2025-12-11*

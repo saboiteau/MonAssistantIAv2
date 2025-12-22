@@ -1,31 +1,35 @@
-# Veille : Spec-Kit : le "Spec-Driven Development" par GitHub
+---
+date: 2025-12-01
+url: https://github.com/github/spec-kit
+tags: [#veille, #SpecDD, #AgenticWorkflow, #SoftwareEngineering, #GitHub, #Methodology]
+auteur: GitHub Next
+---
 
-- **Source** : [GitHub Spec-Kit](https://github.com/github/spec-kit)
-- **Date** : Décembre 2025
-- **Auteur** : GitHub Next / GitHub Team
-- **Tags** : #SpecDD #AgenticWorkflow #SoftwareEngineering #GitHub #Methodology
+# Spec-Kit : le "Spec-Driven Development" par GitHub
 
-## 📝 Résumé
+## 💡 Concepts Clés
+- **Spec-Driven Development (SDD)** : Inversion du flux. On ne prompte pas pour du code, on prompte pour des spécifications rigoureuses qui *elles* génèrent le code.
+- **Fin du Vibe Coding** : Arrêter le codage "au feeling" ou le "One-Shot Prompting" pour revenir à une ingénierie structurée.
+- **Documentation Vivante** : La spec n'est plus un artefact mort, elle devient la source de vérité exécutable.
+- **Workflow en 5 Étapes** : Constitution -> Specify (Quoi/Pourquoi) -> Plan (Comment) -> Tasks -> Implement.
 
-GitHub lance **Spec-Kit**, un toolkit open source qui formalise une nouvelle approche du développement assisté par IA : le **Spec-Driven Development (SDD)**.
+## 📝 Résumé Analytique
+GitHub (via GitHub Next) réintroduit de la rigueur dans le développement assisté par IA avec le toolkit **Spec-Kit**.
+Le constat : demander à une IA de coder une app complexe d'un coup mène au chaos.
+La solution : le **Spec-Driven Development**. C'est une discipline qui force à décomposer le problème avant de coder.
+L'outil propose un workflow structuré via des slash commands (`/specify`, `/plan`, `/implement`) qui guide l'utilisateur (et l'IA) à travers un cycle en V accéléré :
+1.  On valide les principes (Constitution).
+2.  On définit le fonctionnel.
+3.  On valide l'architecture technique.
+4.  Seulement à la fin, l'IA exécute les tâches unitaires.
+C'est le retour de l'Architecte Logiciel, qui devient un "Architecte de Specs".
 
-**Le concept** : Inverser la tendance du "Vibe Coding" (codage intuitif et rapide avec l'IA) pour revenir à une ingénierie rigoureuse où la spécification est la source de vérité. Au lieu de prompter pour du code, on prompte pour des specs, qui génèrent ensuite le code.
+## 🛠️ Actions / Outils
+- **Adoption Mentale** : Même sans l'outil, adopter la structure `Context -> Functional Spec -> Technical Plan -> Code` dans nos interactions avec l'IA.
+- **Créer une Constitution** : Rédiger un fichier `CONSTITUTION.md` pour nos projets (règles d'or, stack, style).
+- **Tester l'approche** : Sur le prochain module complexe, ne pas demander le code tout de suite. Demander d'abord "Génère le plan d'implémentation détaillé".
 
-**Le Workflow en 5 étapes (Slash Commands) :**
-1.  `/speckit.constitution` : Définir les principes non-négociables (qualité, tests, UX).
-2.  `/speckit.specify` : Décrire le **QUOI** et le **POURQUOI** (fonctionnel), sans technique.
-3.  `/speckit.plan` : Définir le **COMMENT** (Stack technique, architecture).
-4.  `/speckit.tasks` : Générer un plan d'exécution détaillé (liste de tâches ordonnée).
-5.  `/speckit.implement` : L'IA exécute les tâches une par une.
-
-**Pourquoi c'est important ?**
-- **Fin du "One-Shot Prompting"** : On arrête d'essayer de générer une app complexe en un seul prompt géant.
-- **Documentation Vivante** : Les specs ne sont plus un document mort, elles pilotent la génération.
-- **Agnostique** : Conçu pour fonctionner avec Claude Code, Copilot, Cursor, etc.
-
-## 🧠 Analyse & Pense-bête
-
-- **Retour aux fondamentaux** : L'IA ne dispense pas de réfléchir à l'architecture, au contraire, elle l'exige pour être performante sur des projets complexes.
-- **Posture "Architecte de Specs"** : Le rôle du développeur évolue de "pisseur de code" à "rédacteur de spécifications exécutables".
-- **Parallèle avec l'Agile** : Cela ressemble à un cycle en V accéléré par l'IA, ou plutôt à du BDD (Behavior Driven Development) sous stéroïdes.
-- **Application immédiate** : Même sans installer le CLI, on peut adopter cette **discipline mentale** dans nos prompts (d'abord les principes, puis le fonctionnel, puis la technique, puis le code).
+## 💭 Critique / Perspective (Optionnel)
+Indispensable pour passer du "bricolage avec ChatGPT" à la "construction de systèmes robustes".
+Valide totalement notre approche de "Planner Agent" (Mode Planning) avant "Execution Agent".
+*À tester d'urgence sur le projet Mon Assistant IA V2.*

@@ -62,7 +62,7 @@ Connaissances/*.md
 !Connaissances/README.md
 
 # Veille personnelle (URLs et contenus privés)
-urls-to-process.txt
+# urls-to-process.txt
 VeilleAuto/INPUT_URLS.txt
 VeilleAuto/PROCESSED_URLS.txt
 Veille/fiches/*_PRIVE*

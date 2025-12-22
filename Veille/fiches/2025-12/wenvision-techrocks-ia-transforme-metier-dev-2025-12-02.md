@@ -1,73 +1,30 @@
-# wenvision-techrocks-ia-transforme-metier-dev-2025-12-02
+---
+date: 2025-12-02
+url: https://www.wenvision.com/fr/articles/techrocks-summit-2025-comment-lia-transforme-le-mtier-des-dev/
+tags: [#veille, #Dev, #TransformationMetier, #VibeCoding, #Agentic, #Acculturation, #TechRocks]
+auteur: Olivier Rafal (WEnvision) / Battle CTO
+---
 
-## Veille
-Transformation métier développeur par IA, vibe coding, agents IA, acculturation, recrutement juniors - WEnvision (TechRocks 2025)
+# TechRocks Summit 2025 : comment l'IA transforme le métier des dev
 
-## Titre Article
-TechRocks Summit 2025 : comment l'IA transforme le métier des dev
+## 💡 Concepts Clés
+- **Fin du "Vibe Coding"** : Coder "au feeling" avec l'IA génère du code jetable et inmaintenable. Évolution vers l'**Approche Agentique** (structurée).
+- **Frontière de la Complexité** : L'IA repousse la barre. Ce qui était complexe (écrire une fonction) devient trivial. La nouvelle complexité est dans l'architecture et l'assemblage.
+- **Acculturation Continue** : L'IA bouge plus vite que les plans de formation. Il faut apprendre "en flux tendu".
+- **Dilemme Junior** : Faut-il encore recruter des juniors ? OUI (Consensus). Pour la pyramide des âges et parce qu'ils sont "IA-Natives".
 
-## Date
-2025-12-02
+## 📝 Résumé Analytique
+Synthèse d'une "Battle de CTO". Consensus rapide : le métier de dév change radicalement, c'est une secousse sismique, pas une vaguelette.
+1.  **Vocabulaire** : On arrête le "Vibe Coding" (terme hype mais dangereux) pour parler d'Engineering Augmenté. L'IA n'est pas un GPS (aide), c'est une voiture autonome (fait) MAIS il faut lui donner une route précise (Framework).
+2.  **Organisation** : Le rôle du Senior change (Superviseur d'Agents). Le rôle du Junior change (Doit prouver qu'il comprend ce que l'IA a généré).
+3.  **Stratégie** : Acculturer massivement. Ne pas laisser l'IA aux seuls "Champions", mais démocratiser ("What's in it for me?").
+L'humain (Junior ou Senior) garde la responsabilité de la **Soutenance du Code** : "C'est toi qui l'a commité, c'est toi qui l'assumes, même si c'est GPT qui l'a écrit".
 
-## URL
-https://www.wenvision.com/fr/articles/techrocks-summit-2025-comment-lia-transforme-le-mtier-des-dev/
+## 🛠️ Actions / Outils
+- **Soutenance de Code** : Nouveau rituel de recrutement/revue. Demander au dév d'expliquer *pourquoi* ce code marche (test de compréhension vs test d'écriture).
+- **Framework Agentique** : Ne pas laisser les dévs prompter le LLM à nu. Fournir des outils/cadres (IDE, Agents) qui standardisent la qualité.
+- **Binômage IA/Humain** : Encourager le pair-programming avec l'IA.
 
-## Keywords
-transformation métier développeur, vibe coding, agents IA, acculturation IA, recrutement juniors, assistants code, Martin Fowler, approche agentique, framework IA, champions IA, what's in it for me, pyramide des âges, frontière complexité
-
-## Authors
-Olivier Rafal (WEnvision), Pierre Vannier (CEO Flint), Charlène Friang (VP training OpenClassrooms), Pierre Lempérière (deputy CTO Adeo), Yves Caseau (Group CDIO Michelin)
-
-## Ton
-**Profil** : Compte-rendu de battle CTO, perspective de consultant tech synthétisant bonnes pratiques, niveau intermédiaire-expert destiné aux CTO et responsables tech
-
-**Style** : Article de synthèse pragmatique structuré en 3 bonnes pratiques actionnables. Olivier Rafal adopte un ton factuel et équilibré, rapportant les échanges d'une "battle" qui fut "brève, le consensus vite atteint". Style direct avec citations directes des intervenants ("Ça secoue" - Yves Caseau, "La frontière de la complexité se déplace"). Vocabulaire tech précis (vibe coding, approche agentique, framework, POC) mais accessible. Structure claire : intro (constat transformation fondamentale) → 3 bonnes pratiques → liens exploration. Public cible : CTO, responsables RH tech, managers développement cherchant à adapter organisation et processus face à l'IA.
-
-## Pense-betes
-- **Transformation fondamentale, pas énième itération** : "Ça secoue" (Yves Caseau). Métier développeur va être fondamentalement transformé, c'est une certitude
-- **Problématique = vitesse d'adaptation** : Temps de réviser/implémenter nouveaux processus, IA aura déjà évolué pour faire autrement. "La frontière de la complexité se déplace" (Yves Caseau)
-- **Vibe coding : débat sémantique chaud** : Initialement = rupture entre assistants code (aident à écrire) et IA générant app directement selon intention (GPS intégré vs voiture autonome). Retour de bâton sévère : résultat plein de bugs, impossible à maintenir si on se contente d'exprimer intention
-- **Verdict Martin Fowler** : "Vibe coding = bien pour faire du jetable". Intérêt pour POC et aligner parties prenantes (Pierre Lempérière)
-- **Approche agentique > vibe coding** : Génération autonome code s'appuyant sur framework, mémoire, contexte. Logique intention identique, mais ne plus appeler ça "vibe coding" (attention vocabulaire)
-- **Acculturation clé** : "Toujours apprendre, s'organiser pour rester au top" (Pierre Lempérière). Adeo = programme 2 modules (débutants/confirmés), champions formés pour accompagner devs dans BU
-- **Objectif acculturation** : Rendre usage IA concret par rapport besoins/habitudes. Viser "what's in it for me" (en quoi ça me concerne) pour toucher du doigt bénéfices
-- **Rôle DSI crucial** : Petit groupe voudra s'emparer nouvelle tech, avancer vite. DSI doit abaisser barrières pour qu'ils puissent avancer, espérant déployer plus largement outils/démarches élaborées
-- **Recrutement juniors : continuer !** : Par choix sociétal/politique, par nécessité économique (pyramide âges), par intérêt (jeunes formés d'emblée sur nouvelles tech, avides de les utiliser)
-- **Évaluation candidats évolue** : OpenClassrooms = candidats utilisent IA, mais soutenance devant humain pour assumer/défendre code
-- **Contexte embauche jeunes** : Moins d'embauche actuellement = rationalisation post sur-embauche, IA joue faible rôle (Yves Caseau)
-
-## RésuméDe400mots
-
-L'article d'Olivier Rafal (WEnvision, 2 déc 2025) synthétise la "battle de CTO" au TechRocks Summit 2025 sur le futur des développeurs face à l'IA. Participants : Pierre Vannier (CEO Flint, animateur), Charlène Friang (VP training OpenClassrooms), Pierre Lempérière (deputy CTO Adeo), Yves Caseau (Group CDIO Michelin).
-
-**Constat unanime** : Bataille brève, consensus rapide. **Transformation fondamentale du métier développeur**, pas énième itération IT. "Ça secoue" (Yves Caseau). Problématique = **vitesse d'adaptation** : le temps de réviser/implémenter nouveaux processus, IA aura déjà évolué pour faire autrement. "La frontière de la complexité se déplace" (Yves Caseau).
-
-**3 bonnes pratiques retenues** :
-
-### 1) Adopter le bon vocabulaire
-
-**Débat chaud sur "vibe coding"**. Initialement = rupture entre assistants code (aident à écrire programme) et IA générant application directement selon intention utilisateur. Métaphore : GPS intégré (aide direction) vs voiture autonome (vous y emmène).
-
-**Retour de bâton sévère** : Se contenter d'exprimer intention → résultat plein de bugs, impossible à maintenir. **Verdict Martin Fowler** : "Vibe coding = bien pour faire du jetable". Intérêt pour POC et aligner parties prenantes (Pierre Lempérière).
-
-**Évolution vers approche agentique** : Génération autonome code s'appuyant sur framework, mémoire, contexte (Yves Caseau). Logique intention identique, mais **ne plus appeler ça "vibe coding"** (attention vocabulaire).
-
-### 2) Acculturer et accompagner
-
-**Clé = "Toujours apprendre, s'organiser pour rester au top"** (Pierre Lempérière). **Programme Adeo** : 2 modules (débutants/confirmés IA), enrichi en continu selon avancées tech. Champions formés pour accompagner devs dans BU.
-
-**Objectif acculturation** : Rendre usage IA **concret** par rapport besoins/habitudes. Viser **"what's in it for me"** (en quoi ça me concerne) pour toucher du doigt bénéfices.
-
-**Rôle DSI crucial** (Yves Caseau) : Petit groupe voudra s'emparer nouvelle tech, avancer vite. DSI doit **abaisser barrières** pour qu'ils puissent avancer, espérant déployer plus largement outils/démarches élaborées.
-
-### 3) Continuer de recruter - des jeunes notamment
-
-**Grande question** : Place des juniors si chaque senior s'appuie sur agents IA pour tâches auparavant confiées à juniors ?
-
-**Yves Caseau remet pendules à l'heure** : Moins d'embauche jeunes actuellement = rationalisation post sur-embauche, IA joue faible rôle.
-
-**Consensus rapide** : **Continuer d'embaucher jeunes**. Par choix sociétal/politique, par nécessité économique (pyramide âges), par intérêt (jeunes formés d'emblée sur nouvelles tech, avides de les utiliser).
-
-**Évaluation candidats évolue** : OpenClassrooms = candidats utilisent IA, mais soutenance devant humain pour assumer/défendre code (Charlène Friang).
-
-**Enseignement clé** : Transformation métier dev = certitude. Adaptation = course contre montre. Vocabulaire, acculturation, recrutement = 3 leviers concrets pour naviguer cette transformation.
+## 💭 Critique / Perspective (Optionnel)
+Valide l'approche de GitHub Spec-Kit (Fiche Spec-Driven Development) : on revient à la rigueur après l'euphorie du "Magic Button".
+*Le développeur de demain est un Manager d'IA.*
