@@ -21,7 +21,7 @@ Si je dois passer 3 jours à écrire un document Word avant de voir une ligne de
 
 ## 3. Pourquoi ce n'est PAS une régression (La vision Kniberg)
 
-Henrik Kniberg (le père du schéma "Skateboard vers Voiture") parle désormais du "Generative Development".
+Henrik Kniberg (le père du schéma "Skateboard vers Voiture") parle désormais de "Generative AI" (dans son "Generative AI in a Nutshell").
 La nuance est radicale :
 *   **Dans le Waterfall (Vieux Monde)** : Spec → (6 mois) → Code → (3 mois) → Test. La boucle de feedback est de 9 mois.
 *   **Dans le SDD (Ère IA)** : Spec → (2 minutes) → Code → (1 minute) → Test. La boucle de feedback est de **3 minutes**.

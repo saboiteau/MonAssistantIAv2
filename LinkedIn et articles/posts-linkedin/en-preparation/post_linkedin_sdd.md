@@ -12,7 +12,7 @@ Pour un Agiliste, ça sonne comme une insulte.
 
 J'ai cru ça aussi. **Mais j'avais tort.**
 
-En relisant Henrik Kniberg ("Generative Development"), j'ai compris la nuance :
+En relisant Henrik Kniberg ("Generative AI in a Nutshell"), j'ai compris la nuance :
 
 ❌ **Waterfall** : Spec → 6 mois → Code. Feedback loop = 6 mois.
 ✅ **SDD (IA)** : Spec → 2 minutes → Code. Feedback loop = 2 minutes.

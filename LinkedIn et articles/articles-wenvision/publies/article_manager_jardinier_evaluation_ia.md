@@ -18,11 +18,16 @@ Avec une IA, c'est différent. Ce n'est pas parce qu'elle a réussi à résumer 
 
 Si vous déléguez sans système de vérification, vous ne gagnez pas de temps. Vous jouez à la roulette russe avec votre réputation professionnelle.
 
-## De l'Architecte au Jardinier
+## Du Planificateur au Jardinier
 
-C'est ici que la métaphore du jardinier prend tout son sens.
+C'est ici que la métaphore change.
+Dans le modèle **M3K** (Management 3000) décrit par Jurgen Appelo, le manager n'est plus un "Chef de chantier" qui exécute un plan linéaire pour un problème simple. Il doit gérer des problèmes complexes (*Wicked Problems*).
 
-On ne "programme" pas une IA comme un architecte construit un pont, avec des plans figés et définitifs. On **élève** une IA comme un jardinier s'occupe de ses plantes.
+On ne "programme" pas une IA comme on construit un mur. On **élève** une IA comme un jardinier s'occupe de ses plantes.
+
+Pour reprendre le **Paradoxe de Stockdale** (une mentalité clé du M3K), votre posture doit être double :
+1.  **Foi inébranlable** : Croire que votre système IA finira par être performant.
+2.  **Discipline brutale** : Confronter votre IA à la réalité de ses erreurs à chaque instant.
 
 1.  **Le Tuteur (Le Prompt)** : Vous donnez la direction initiale. "Pousse vers le haut".
 2.  **La Taille (Le Feedback Négatif)** : Quand l'IA part dans une mauvaise direction (hallucination, ton inapproprié), vous devez couper cette branche immédiatement. "Ne fais pas ça".
@@ -47,7 +52,7 @@ L'IA ne peut pas inventer ces standards. Elle ne peut que tenter de les imiter. 
 
 L'avenir n'appartient pas à ceux qui écrivent les prompts les plus complexes. Il appartient à ceux qui mettent en place les systèmes d'évaluation les plus robustes.
 
-Si vous voulez vraiment passer à l'échelle avec l'IA en 2025 :
+Si vous voulez vraiment passer à l'échelle avec l'IA en 2026 :
 1.  **Acceptez l'imperfection** : Votre agent se trompera. C'est normal.
 2.  **Investissez dans le feedback** : Chaque correction que vous faites est une pépite d'or pour l'apprentissage de votre agent. Ne corrigez pas en silence ; expliquez-lui pourquoi.
 3.  **Restez le gardien du sens** : L'IA gère la syntaxe, vous gérez la sémantique et la stratégie.

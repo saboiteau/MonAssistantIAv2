@@ -1,29 +1,36 @@
 # 📄 POST LinkedIn - Manager IA #4 : Lâcher le Comment
 
-**Date suggérée** : Vendredi 2 janvier 2026
+**Date suggérée** : Mardi 30 décembre 2025
 **Série** : Manager à l'ère de l'IA (Post 4/4)
 **Statut** : ⏳ En préparation
 
 ---
 
-J'ai un aveu à faire. 🤐
+Le plus dur avec l'IA Agentique, ce n'est pas la technique.
+C'est l'ego. 🤐
 
-Même après 15 ans à optimiser des processus, je me surprends encore à vouloir dicter à mon IA *comment* faire sa tâche.
+Pendant 15 ans, j'ai été payée pour savoir **"Comment"** faire les choses.
+Optimiser un process. Écrire le script parfait. Trouver la route.
 
-C'est le vieux réflexe de l'ingénieur : vouloir maîtriser le chemin.
-Sauf qu'avec l'IA Agentique, ce réflexe est devenu contre-productif.
+Et puis j'ai branché **Antigravity** (mon système multi-agents).
 
-C'est toute la différence entre une carte routière (où je dois décider de chaque virage) et un GPS (où je définis la destination et les contraintes).
+Au début, j'ai fait ce que je faisais d'habitude : j'ai voulu expliquer à mes agents *comment* travailler.
+*   "Fais ci, puis ça, attention à ça..."
 
-Si nous voulons réussir notre transformation en **Architectes de systèmes** ou en **Managers-Jardiniers**, nous devons accepter ce vertige :
+Résultat ? **J'étais le goulot d'étranglement.**
+Je transformais des agents autonomes en simples exécutants bêtes et méchants.
 
-Nous ne sommes plus payés pour savoir *comment* aller d'un point A à un point B.
-Nous sommes payés pour définir le point B avec une clarté absolue, et pour juger si le résultat est conforme.
+La vraie bascule s'est faite quand j'ai osé leur donner juste l'Intention (le **"Quoi"** et le **"Pourquoi"**) et des contraintes (Constitution), en les laissant libres du chemin.
 
-Le micro-management du "comment" est un refuge rassurant pour notre ego d'expert technique. Mais c'est un piège qui nous empêche de monter en valeur.
+C'est vertigineux.
+C'est comme passer du rôle de conducteur (mains sur le volant) à celui de commanditaire (assis à l'arrière).
+On a envie de reprendre le volant à chaque virage.
 
-Pour 2026, je ne vous souhaite qu'une chose : le courage de lâcher le volant pour mieux regarder la route.
+Mais quand on accepte de lâcher le "Comment"... la vitesse d'exécution change d'échelle.
 
-C'est la fin de cette série sur le Management IA. Lequel des 4 piliers est le plus difficile pour vous ?
+Pour 2026, je ne vous souhaite pas de meilleurs prompts.
+Je vous souhaite le courage de faire confiance à votre système.
 
-#Leadership #Mindset #LacherPrise #IA #Management #Transformation #FuturDuTravail
+💡 **[IMAGE ASSOCIÉE : manager_ia_4_lacher_le_comment.jpg]**
+
+#AgenticAI #Management #LacherPrise #Antigravity #Leadership #Productivite

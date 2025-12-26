@@ -14,11 +14,18 @@ Kit_Duplication_Assistant/
 # Exclude zip files
 *.zip
 
-# Exclude large files (>100MB)
+# Exclude large files and images
 Veille/origines
 *.iso
 *.mp4
 *.mov
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.tiff
 
 # Exclude temporary files
 ~$*

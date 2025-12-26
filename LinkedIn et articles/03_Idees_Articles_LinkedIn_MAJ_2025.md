@@ -401,6 +401,20 @@ Vous savez, vous ?
 - Citation William Kammersell
 - Appel formation urgente
 
+### Carrousel LinkedIn : "M3K pour les nuls" (Pour post "Lâcher le Comment")
+- Slide 1 : "Agile est mort ?" (Hook provocateur)
+- Slide 2 : "Le problème : On gère des humains comme des machines" (Architecte)
+- Slide 3 : "La solution : Management 3000" (Jardinier)
+- Slide 4 : "Le nouveau rôle : Chef d'Orchestre d'Intelligences"
+- Slide 5 : "Votre défi : Lâcher le 'Comment'" (Récap)
+
+### Infographie : "Chef de Chantier vs Jardinier" (Pour post "Manager Jardinier")
+- Split screen visual
+- Gauche (Avant) : Briques, Plan rigide, Contrôle (Chef de Chantier)
+- Droite (Après) : Plantes, Tuteurs, Croissance organique (Jardinier)
+- Légende : "On ne bâtit pas une IA, on l'élève."
+- **Prompt suggéré** : *"A professional split-screen infographic illustration for business context. Left half represents 'Construction Manager' style: rigid blueprints, brick walls, scaffolding, linear rulers, grey and blue metallic tones. Right half represents 'Gardener Manager' style: growing ecosystem of plants, pruning shears, watering, organic curves, vibrant green and warm sunlight tones. High contrast, vector art style, clean and modern."*
+
 ---
 
 ## 📊 ANGLES D'ATTAQUE RÉCURRENTS À EXPLOITER
