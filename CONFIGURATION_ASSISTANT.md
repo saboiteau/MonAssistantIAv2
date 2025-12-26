@@ -124,7 +124,7 @@ Utiliser `Banque_de_Prompts/Template_Meta_Chercheur.md` pour trouver le bon prom
 **Source** : `Veille/index.md` (110+ articles analysés, juin 2023 - décembre 2025)
 
 #### Processus "Second Brain"
-1. **Ingestion** : Ajouter URL via `add_url.ps1` -> `urls-to-process.txt`
+1. **Ingestion** : Ajouter URL directement dans `urls-to-process.txt`
 2. **Processing** : Agent Veilleur analyse et synthétise.
 3. **Restitution** : Fiches Markdown compatibles **Obsidian** (avec Frontmatter YAML).
 

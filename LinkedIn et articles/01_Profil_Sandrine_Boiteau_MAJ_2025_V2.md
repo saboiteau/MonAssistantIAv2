@@ -2,7 +2,7 @@
 
 ## 📋 IDENTITÉ PROFESSIONNELLE
 
-**Fonction actuelle :** Co-founder WEnvision et anciennement Head of Global IS&T Methods and Tools chez Sodexo
+**Fonction actuelle :** Co-founder WEnvision et Responsable de la centralisation des formations, anciennement Head of Global IS&T Methods and Tools chez Sodexo
 
 **Cabinet :** WEnvision - Cabinet de conseil en transformation digitale
 - **Positionnement :** "Devenez Future-proof by design"
@@ -10,6 +10,7 @@
 - **Mantra :** "Think Big but start small and fast"
 - **Philosophie :** Conseil sur-mesure, produit au cœur des stratégies, pragmatisme ("strategy in motion")
 - **Innovation récente :** Reconstruction site WEnvision 100% conversationnel avec IA (70h au lieu de 4 mois, 85% temps en moins)
+- **Derniers succès LinkedIn :** Post TOM & Agentique (3 150 impressions), Post Cybersécurité Shift-left (850 impressions)
 
 ## 🎯 EXPERTISE FONDAMENTALE
 
@@ -35,8 +36,9 @@
    - Temps long vs vitesse : le paradoxe du tapis roulant
    - **IA philosophique** : Spinoza, joie, expansion de l'être
 
-3. **Product Management et Gouvernance**
+3. **Product Management, Gouvernance et Formations**
    - Rôles produit (Product Owner, Product Manager, Chief Product Officer)
+   - **Centralisation des formations WEnvision** : Orchestration de l'offre catalogue (SFEIR Institute) et formations sur-mesure.
    - **NOUVEAU :** AI Product Owner (hybride produit-IA)
    - Gouvernance produit et arbitrage métier
    - OKRs et mesure de la valeur business
@@ -55,7 +57,7 @@
 - **Convivialité (Illich)** : IA conviviale vs extractive - CONCEPT CENTRAL
 - **Tapis roulant** : Métaphore de l'accélération qui enferme (Marion Carré, Paul Virilio)
 - **Spirale Dynamique** : Grille de lecture des systèmes de valeurs (formation certifiante 2025)
-- **Cycle de transformation de 2 ans** : Temps nécessaire pour un changement culturel profond
+- **Cycle de transformation de 2 ans (En rupture)** : Traditionnellement 2 ans pour un changement culturel, désormais percuté par la vitesse de l'IA (Risque d'indigestion humaine).
 - **Faire vs Être (Agile/Produit)** : L'écart entre application de frameworks et changement culturel
 - **Tech-Orga-Culture** : Triptyque indissociable de toute transformation
 - **"L'IA : L'Épice, Pas le Plat"** (Clément Cardi, Google Cloud) - NOUVELLE MÉTAPHORE
@@ -215,7 +217,7 @@
 
 ### Différenciation vs Concurrence
 - Pas de promesses de transformation en 5 minutes
-- Valorisation du temps long (2 ans) vs vitesse illusoire
+- Valorisation de l'absorption humaine vs vitesse technologique
 - Focus sur angles morts du Comex
 - Posture philosophique : questionnement du sens avant l'outil
 - Transparence sur ses propres erreurs (vœux IA 2022, tapis roulant)
@@ -225,7 +227,7 @@
 ## 💡 CONVICTIONS PROFONDES
 
 ### Sur la Transformation
-- **Temps nécessaire** : 2 ans minimum pour transformation culturelle
+- **Rupture du cycle** : L'IA atomise les transformations classiques (Middleware, Agile) de 2 ans. Indigestion humaine possible.
 - **Trois piliers indissociables** : Tech, Orga, Culture - avec Culture en premier
 - **Produit au centre** : Logique produit > logique projet
 - **Ralentir est stratégique** : Le geste le plus radical de 2025
@@ -233,6 +235,8 @@
 ### Sur l'IA
 - **IA conviviale (Illich)** : Outil qui amplifie sans aliéner
 - **"L'IA : L'Épice, Pas le Plat"** : Améliore bon produit, ne sauve pas mauvais
+- **Cybersécurité Shift-left** : Intégrer la sécurité dès la conception (SDLC), responsabilité collective et non déléguée à l'IT seule.
+- **Simplicité vs Sécurité** : La complexité est l'ennemi de la sécurité ; un système doit être intelligible pour être protégé.
 - **Usage raisonné** : Vigilance sur impacts RSE, énergie, sens
 - **Critique systématique** : Vérifier fiabilité, questionner le "pourquoi"
 - **Éthique et confidentialité** : Respect scrupuleux données
@@ -434,7 +438,9 @@
 
 ## 📊 DONNÉES ET CHIFFRES CLÉS (Nouveaux 2025)
 
-### Chiffres d'Impact WEnvision
+### Événements et Succès Récents
+- **3 150 impressions** : Post LinkedIn sur le Target Operating Model (TOM) Agentique (Déc. 2025)
+- **850 impressions** : Post LinkedIn sur la Certification Cybersécurité et le Shift-left (Déc. 2025)
 - **85%** : Temps de développement en moins (site web conversationnel)
 - **70 heures** : au lieu de 4 mois (reconstruction site WEnvision)
 - **450 articles** : Migrés et réorganisés en topic clusters
@@ -447,9 +453,13 @@
 - **60 femmes entrepreneures** : Animation Elles@Meudon
 - **6 webinaires** : Série SFEIR sur IA générative entreprise
 
-### Constantes (2 ans)
-- **2 ans** : Transformation Agile complète
-- **2 ans** : Mise en place socle Middleware (Kafka, EAI)
+### Rupture du référentiel (Temps Long vs Vitesse IA)
+- **Ancien Référentiel (2 ans)** :
+  - Transformation Agile complète : 2 ans
+  - Mise en place socle Middleware (Kafka, EAI) : 2 ans
+- **Nouveau Référentiel (Mutation Continue)** :
+  - La tech n'est plus le frein, l'humain devient l'amortisseur de vitesse.
+  - Le manager devient "designer d'amortisseurs" de mutation.
 
 ## 🔮 VISION PROSPECTIVE 2025
 

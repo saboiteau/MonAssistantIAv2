@@ -1,8 +1,8 @@
 # 🚀 POST LinkedIn - SFEIR Institute
 
 **Date de création** : 11 décembre 2025  
-**Statut** : Brouillon - Prêt à publier  
-**Publication recommandée** : Jeudi 14 décembre 2025, 10h00  
+**Statut** : ⏳ En préparation (Séquence Janvier 2026)
+**Publication suggérée** : Lundi 5 janvier 2026, 10h00  
 **Objectif** : Promotion SFEIR Institute + Positionnement responsable formations WEnvision + Teasing série technique
 
 ---
